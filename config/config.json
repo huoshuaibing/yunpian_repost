@@ -1,0 +1,16 @@
+{
+    "dingtalk": "https://oapi.dingtalk.com/robot/send?access_token=",
+    "heartbeat": "https://heartbeat-bj.blockin.com/v2/heartbeats/yunpian_senderr_notify/ping",
+    "Database":{
+        "Username": "root",
+        "Password": "",
+        "Protocol": "tcp",
+        "Ip": "127.0.0.1",
+        "Port": 3306,
+        "Basename": "yunpian_db",
+        "DataTable": "send_info",
+        "Param": "charset",
+        "Value": "utf8",
+        "Key": "sid"
+    }
+}
