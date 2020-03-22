@@ -1,6 +1,6 @@
 {
     "dingtalk": "https://oapi.dingtalk.com/robot/send?access_token=",
-    "heartbeat": "https://heartbeat-bj.blockin.com/v2/heartbeats/yunpian_senderr_notify/ping",
+    "heartbeat": "https://heartbeat-xx.xxxx.com/v2/heartbeats/yunpian_senderr_notify/ping",
     "Database":{
         "Username": "root",
         "Password": "",
